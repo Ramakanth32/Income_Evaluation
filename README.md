@@ -1,4 +1,4 @@
-# Demographic Income Analysis with Power BI 
+# Procedure
 1.Collected and cleaned demographic income dataset.
 2.Imported data into Power BI and applied transformations.
 3Designed visuals (charts, cards, slicers) for analysis.
