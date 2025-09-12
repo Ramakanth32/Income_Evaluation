@@ -1,18 +1,6 @@
-# Demographic Income Analysis with Power BI
-Overview
-Built an interactive Power BI dashboard to analyze income distribution across demographics.
-Focused on workclass, gender, education, and geographic location.
-
-🔹 Features
-Dynamic filtering with slicers (age, occupation, education, income).
-Clear visualizations: charts, graphs, and cards.
-Comparative insights across demographic groups.
-
-🔹 Tools
-Power BI (visualization & dashboards)
-Data preprocessing (cleaning & formatting)
-
-🔹 Key Insights
-Income varies significantly across genders and occupations.
-Education level strongly impacts income.
-Regional differences highlight geographic income gaps.
+# Demographic Income Analysis with Power BI 
+1.Collected and cleaned demographic income dataset.
+2.Imported data into Power BI and applied transformations.
+3Designed visuals (charts, cards, slicers) for analysis.
+4.Analyzed income distribution by gender, education, region, and workclass.
+5.Built an interactive dashboard for insights.
